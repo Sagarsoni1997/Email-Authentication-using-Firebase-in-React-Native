@@ -5,5 +5,5 @@ Managing user authentication flows in a mobile app is one of the most significan
 
 Fiest we need to create project in Firebase Console after that we have to Add it on our Project
 
-You can follow this linl for better explaination :-
+You can follow this link for better explaination :-
 https://blog.logrocket.com/how-to-set-up-email-authentication-with-react-native-react-navigation-and-firebase/
